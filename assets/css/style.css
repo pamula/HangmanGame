@@ -1,0 +1,28 @@
+body{
+	background: url("https://cdn.wallpapersafari.com/14/51/198TfK.jpg");
+	background-repeat: no-repeat;
+
+}
+.one{
+	top:50px;
+	position:relative;
+}
+.panel-body{
+	background: aquamarine;
+}
+.jumbotron{
+	background:url("https://images.designtrends.com/wp-content/uploads/2015/12/10132207/Stunning-Flower-Background.jpg");
+background-repeat: no-repeat;
+font-style: italic;
+color:purple;
+}
+p{
+	color:purple;
+}
+#two{
+	color:rosybrown;
+}
+#three{
+	background-color: lightpink;
+	
+}
